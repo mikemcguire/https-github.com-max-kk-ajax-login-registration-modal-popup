@@ -1,5 +1,5 @@
 {
-  "name": "max-kk/ajax-login-registration-modal-popup",
+  "name": "mikemcguire/ajax-login-registration-modal-popup",
   "description": "description_text",
   "type": "wordpress-plugin",
   "minimum-stability": "stable",
@@ -12,8 +12,6 @@
   ],
   "require": {
     "composer/installers": "1.8.0",
-    "underdev/settings": "1.2",
-    "max-kk/wp-skins-customizer": "dev-master"
   },
   "autoload": {
     "classmap": ["includes/", "skins/", "vendor/max-kk/wp-notice-lib/"],
