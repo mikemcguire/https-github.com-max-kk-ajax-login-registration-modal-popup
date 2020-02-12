@@ -1,6 +1,7 @@
 {
   "name": "max-kk/ajax-login-registration-modal-popup",
   "description": "description_text",
+  "type": "wordpress-plugin",
   "minimum-stability": "stable",
   "license": "proprietary",
   "authors": [
@@ -10,6 +11,7 @@
     }
   ],
   "require": {
+    "composer/installers": "1.8.0",
     "underdev/settings": "1.2",
     "max-kk/wp-skins-customizer": "dev-master"
   },
